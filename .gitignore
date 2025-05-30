@@ -1,0 +1,13 @@
+# Ignore pycache folders
+__pycache__/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore PyCharm IDE files
+.idea/
+*.iml
+
+# Ignore virtual environments (if any)
+venv/
+.env
