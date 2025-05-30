@@ -123,7 +123,8 @@ python manage.py runserver
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home](screenshots/home.png)
+![Home Page](screenshots/HomePage.jpg)
+
 
 ### 🔐 Login Page
 ![Login](screenshots/login.png)
