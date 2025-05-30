@@ -111,13 +111,16 @@ python manage.py runserver
 
 ## 📸 Screenshots Overview
 
-| Page              | Description                                      |
-|-------------------|--------------------------------------------------|
-| Home Page         | Entry page with navigation                      |
-| Login Page        | Remote user login for prediction access         |
-| Dataset Upload    | Admin panel for uploading the transaction dataset |
-| Prediction Result | Output showing whether transaction is fraud     |
-| Accuracy Graph    | Visual chart showing ML model performance       |
+| Screenshot                 | Description                                           |
+|----------------------------|-------------------------------------------------------|
+| Home Page                  | Entry screen of the web application                  |
+| Registration Page          | Allows users to register with details                |
+| Remote User Login          | User login screen for accessing prediction features  |
+| Remote User Details Table  | Displays all remote users and their metadata         |
+| Accuracy Line Graph        | Line chart showing accuracy of ML models             |
+| Accuracy Bar Chart         | Bar chart comparison of ML models by performance     |
+| Accuracy Pie Chart         | Pie chart showing proportional accuracy of algorithms|
+
 
 
 ## 🖼️ Screenshots
@@ -125,18 +128,27 @@ python manage.py runserver
 ### 🏠 Home Page
 ![Home Page](screenshots/HomePage.jpg)
 
+### 📝 Registration Page
+![Registration Page](screenshots/RegistrationPage.jpg)
 
-### 🔐 Login Page
-![Login](screenshots/login.png)
+### 🔐 Remote User Login
+![Remote User Login](screenshots/RemoteUserLogin.jpg)
 
-### 📥 Dataset Upload (Admin)
-![Upload](screenshots/upload.png)
+### 📈 Accuracy Comparison – Line Graph
+![Line Graph](screenshots/LineGraph.jpg)
 
-### 🔍 Prediction Results
-![Prediction](screenshots/prediction.png)
+### 🥧 Accuracy Comparison – Pie Chart
+![Pie Chart](screenshots/PieChart.jpg)
 
-### 📊 Accuracy Comparison Graphs
-![Accuracy](screenshots/accuracy.png)
+### 👥 Remote User Details Table  
+![Details of Remote Users](screenshots/DetailsofRemoteUsers.jpg)
+
+### 📈 Accuracy Comparison – Line Graph  
+![Line Graph](screenshots/LineGraph.jpg)
+
+### 📊 Accuracy Comparison – Bar Chart  
+![Bar Chart](screenshots/BarChart.jpg)
+
 
 
 ## 👨‍💻 Developed By
