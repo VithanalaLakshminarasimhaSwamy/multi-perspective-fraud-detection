@@ -168,5 +168,3 @@ python manage.py runserver
 This project is intended for academic learning and educational submission.
 Not intended for commercial use.
 
-````
-
