@@ -1,0 +1,9 @@
+Django==3.2
+mysqlclient==2.1.1
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.2.2
+matplotlib==3.6.3
+joblib==1.3.2                # Optional - if ML model is saved/loaded
+django-crispy-forms==1.14.0  # Optional - if used in templates
+seaborn==0.12.2              # Optional - if fancy graphs used
