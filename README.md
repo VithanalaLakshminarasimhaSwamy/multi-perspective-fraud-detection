@@ -109,23 +109,34 @@ python manage.py runserver
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots Overview
 
-| Page         | Description                    |
-| ------------ | ------------------------------ |
-| Home         | Landing page of the app        |
-| Remote Login | For user prediction access     |
-| Admin Login  | Dataset upload & ML training   |
-| Graphs       | Accuracy comparisons           |
-| Results      | Transaction prediction outcome |
+| Page              | Description                                      |
+|-------------------|--------------------------------------------------|
+| Home Page         | Entry page with navigation                      |
+| Login Page        | Remote user login for prediction access         |
+| Dataset Upload    | Admin panel for uploading the transaction dataset |
+| Prediction Result | Output showing whether transaction is fraud     |
+| Accuracy Graph    | Visual chart showing ML model performance       |
 
-👉 You can paste images using markdown like:
 
-```markdown
-![Home Page](screenshots/home.png)
-```
+## 🖼️ Screenshots
 
----
+### 🏠 Home Page
+![Home](screenshots/home.png)
+
+### 🔐 Login Page
+![Login](screenshots/login.png)
+
+### 📥 Dataset Upload (Admin)
+![Upload](screenshots/upload.png)
+
+### 🔍 Prediction Results
+![Prediction](screenshots/prediction.png)
+
+### 📊 Accuracy Comparison Graphs
+![Accuracy](screenshots/accuracy.png)
+
 
 ## 👨‍💻 Developed By
 
