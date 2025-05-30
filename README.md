@@ -1,10 +1,4 @@
-Absolutely bro 👊 Here's your complete and final README.md content — clean, full, and ready to copy into your project.
 
-📝 Full README.md (for multi-perspective fraud detection)
-
-Copy everything below:
-
-````markdown
 # 🛡️ Multi-Perspective Fraud Detection for E-Commerce Transactions
 
 A web-based machine learning project to detect fraudulent transactions in multi-participant e-commerce systems by analyzing behavior using a combination of process mining and machine learning (SVM, etc.).
@@ -152,4 +146,3 @@ Not intended for commercial use.
 
 ````
 
-—
